@@ -1,0 +1,10 @@
+1. Sumber dataset: 
+	https://www.contextures.com/tablesamples/sampledatainsurance.zip
+
+2. Visualisasi data menggunakan Jupyter Notebook, Matplotlib dan Seaborn
+	- Instalasi matplotlib 
+		>>>> https://matplotlib.org/stable/users/installing.html 
+	- Instalasi seaborn
+		>>>> https://seaborn.pydata.org/installing.html
+
+3. Program berisi beberapa contoh visualisasi data menggunakan data asuransi
